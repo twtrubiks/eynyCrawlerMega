@@ -10,6 +10,9 @@ eyny movie 連結爬蟲
 輸出格式
 * 文字檔(爬蟲結束後會自動開啟文字檔)
 
+### Environment
+Python 2.7.3
+
 ### 執行方法
   python  eynyCrawlerMega.py
   
