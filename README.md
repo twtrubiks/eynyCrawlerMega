@@ -5,16 +5,14 @@ eyny電影Mega連結爬蟲 for Windows and Linux
 
 
 ## 特色
-* 爬出eyny電影區Mega文章連結
+* 抓取eyny電影區Mega文章連結
 
 ## 輸出格式
 * 文字檔(爬蟲結束後會自動開啟文字檔)
 
 ## 執行畫面
-
-![alt tag](http://i.imgur.com/ouOykUp.jpg)
-
 ![alt tag](http://i.imgur.com/anxAFXz.jpg)
+![alt tag](http://i.imgur.com/ouOykUp.jpg)
 
 ## Environment
 Python 2.7.3
