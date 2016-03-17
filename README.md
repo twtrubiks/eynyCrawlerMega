@@ -1,6 +1,6 @@
 # eynyCrawlerMega (eyny電影Mega連結爬蟲)
 
-eyny電影Mega連結爬蟲
+eyny電影Mega連結爬蟲 for Windows and Linux
 * [Demo Video](https://www.youtube.com/watch?v=TFpmHsz2k1s)
 
 
@@ -19,8 +19,10 @@ eyny電影Mega連結爬蟲
 ## Environment
 Python 2.7.3
 
-## 執行方法
-  python  eynyCrawlerMega.py 
+## 執行範例
+```
+python eynyCrawlerMega.py 
+```
   
 ## 執行檔
 * 已打包為windows exe檔案(不須安裝python)
