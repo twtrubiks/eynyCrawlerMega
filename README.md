@@ -19,7 +19,7 @@ eyny 電影 Mega and Google 連結爬蟲 for Windows and Linux
 
 ## Environment
 
-Python 3.5.3
+Python 3.6.6
 
 ## 執行範例
 
